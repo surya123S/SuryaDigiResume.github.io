@@ -1,2 +1,2 @@
-# SuryaDigiResume.github.io
-My Digi Resume WithOut LayOut
+# webdesign-tot
+We'll discuss about web design concepts
